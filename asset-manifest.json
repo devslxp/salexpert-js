@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salexpert.in/static/css/main.5f361e03.chunk.css",
+    "main.js": "/salexpert.in/static/js/main.fd747e01.chunk.js",
+    "main.js.map": "/salexpert.in/static/js/main.fd747e01.chunk.js.map",
+    "runtime-main.js": "/salexpert.in/static/js/runtime-main.09b5fa8a.js",
+    "runtime-main.js.map": "/salexpert.in/static/js/runtime-main.09b5fa8a.js.map",
+    "static/js/2.7de453f1.chunk.js": "/salexpert.in/static/js/2.7de453f1.chunk.js",
+    "static/js/2.7de453f1.chunk.js.map": "/salexpert.in/static/js/2.7de453f1.chunk.js.map",
+    "index.html": "/salexpert.in/index.html",
+    "precache-manifest.541e26e4b8b0fd163bd3e93af0210566.js": "/salexpert.in/precache-manifest.541e26e4b8b0fd163bd3e93af0210566.js",
+    "service-worker.js": "/salexpert.in/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/salexpert.in/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7de453f1.chunk.js.LICENSE.txt": "/salexpert.in/static/js/2.7de453f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/salexpert.in/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b5fa8a.js",
+    "static/js/2.7de453f1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fd747e01.chunk.js"
+  ]
+}
